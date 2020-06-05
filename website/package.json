@@ -11,8 +11,7 @@
     "react-dom": "^16.13.1",
     "react-jss": "^10.1.1",
     "react-scripts": "3.4.1",
-    "redux-thunk": "^2.3.0",
-    "ws": "^7.3.0"
+    "redux-thunk": "^2.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
